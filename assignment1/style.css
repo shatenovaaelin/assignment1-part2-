@@ -1,0 +1,82 @@
+<link rel="stylesheet" href="style.css">
+p {
+    text-align: center;
+    font-size: 28px;
+}
+.highlight {
+    color:blue;
+    font-weight: bold;
+}
+#main-heading {
+    color: brown;
+    text-align:center;
+}
+
+.header {
+    background-color: peachpuff;
+    padding: 20px;
+}
+.main-content {
+    background-color: aliceblue;
+    padding: 50px;
+}
+.footer {
+    background-color: burlywood;
+    padding: 20px;
+}
+.box {
+    background-color: purple;
+    border: 3px solid black;
+    margin: 20px;
+    padding: 20px;
+}
+.static {
+    position: static;
+    background-color:black;
+    padding: 10px;
+}
+.relative {
+    position: relative;
+    left:30px;
+    top: 10px;
+    background-color: gray;
+    padding: 10px;
+}
+.absolute {
+    position: absolute;
+    right: 30px;
+    top: 300px;
+    background-color: gainsboro;
+    padding: 10px;
+}
+h1 {
+    font-size: 4rem;
+}
+h2 {
+    font-size: 3em;
+}
+h3 {
+    font-size: 24px;
+}
+.image {
+    width: 20%;
+    height: auto;
+}
+.float-left{
+    float: left;
+    width: 40%;
+    background-color: cornsilk;
+    padding: 20px;
+    margin: 10px;
+}
+.float-right{
+    float: right;
+    width: 40%;
+    background-color: lightyellow;
+    padding: 20px;
+    margin: 10px;
+}
+.clear {
+    clear: both;
+    padding: 20px;
+}
